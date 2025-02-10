@@ -1,5 +1,5 @@
 # JOHNACE
-# ITELEC
+# ITELEC2
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
 
@@ -18,5 +18,5 @@ def main():
 
     print(f"The quotient is {(num1 / num2):.2f}")
 
-    if _name_ == "_main_":
+if _name_ == "_main_":
     main()
