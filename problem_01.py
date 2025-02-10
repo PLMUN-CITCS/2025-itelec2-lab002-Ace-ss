@@ -1,5 +1,5 @@
-# JOHN ACE PASCUAL
-# ITELEC2
+# johnace
+# ITELEC
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
 
