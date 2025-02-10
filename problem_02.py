@@ -10,6 +10,5 @@ def main():
     
     print(f"The square of {number} is {(number*number):.2f}")
     
-
 if _name_ == "_main_":
     main()
